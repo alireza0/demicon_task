@@ -37,7 +37,7 @@ As the task was only about implementing a lambda function with terraform, I assu
 ```bash
 $ git clone https://github.com/alireza0/demicon_task
 ```
-4. Unzip and run the code:
+4. Change directory and run the code:
 ```bash
 $ cd demicon_task
 $ terraform init
